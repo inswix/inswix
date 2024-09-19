@@ -18,7 +18,7 @@ Welcome to **Inswix**, your go-to tool for viewing and downloading Instagram Sto
 
 ## 🛠️ How to Use
 
-1. **Visit Inswix**: Go to [insiwx.com](https://inswix.com) on your preferred web browser.
+1. **Visit Inswix**: Go to [inswix.com](https://inswix.com) on your preferred web browser.
 2. **Enter Username**: Input the Instagram username whose stories you want to view.
 3. **Browse Stories**: View the stories anonymously.
 4. **Download Stories**: Click on the download button to save stories to your device.
